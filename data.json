@@ -18,7 +18,14 @@
       },
       {
         "date": "2026-07 (현재)",
-        "u": 1
+        "u": 1,
+        "people": [
+          {
+            "name": "OH LOGISTICS",
+            "email": "oh.logistics@serveonena.com",
+            "dept": "Logistics Solution Team"
+          }
+        ]
       }
     ]
   },
@@ -41,7 +48,8 @@
       },
       {
         "date": "2026-07 (현재)",
-        "u": 0
+        "u": 0,
+        "people": []
       }
     ]
   },
@@ -64,7 +72,8 @@
       },
       {
         "date": "2026-07 (현재)",
-        "u": 0
+        "u": 0,
+        "people": []
       }
     ]
   },
@@ -87,7 +96,8 @@
       },
       {
         "date": "2026-07 (현재)",
-        "u": 0
+        "u": 0,
+        "people": []
       }
     ]
   },
@@ -110,7 +120,24 @@
       },
       {
         "date": "2026-07 (현재)",
-        "u": 3
+        "u": 3,
+        "people": [
+          {
+            "name": "MAI HOANG LAN-Billy",
+            "email": "billy.mai@serveone.vn",
+            "dept": "New Sales Part"
+          },
+          {
+            "name": "VU TRA MY-Arina",
+            "email": "arina.vu@serveone.vn",
+            "dept": "HRGA Part"
+          },
+          {
+            "name": "LE THI THAO HIEN-Vera",
+            "email": "vera.le@serveone.vn",
+            "dept": "Hyosung PJT Part"
+          }
+        ]
       }
     ]
   },
@@ -133,7 +160,19 @@
       },
       {
         "date": "2026-07 (현재)",
-        "u": 2
+        "u": 2,
+        "people": [
+          {
+            "name": "LINTANG DIAN KUSUMAWARDHANI",
+            "email": "lintang@serveone.id",
+            "dept": "LGE/Tier1 Part"
+          },
+          {
+            "name": "RAFI BINTANG ALFATTAH HIDAYAT",
+            "email": "rafi@serveone.id",
+            "dept": "LGE/Tier1 Part"
+          }
+        ]
       }
     ]
   },
@@ -156,7 +195,8 @@
       },
       {
         "date": "2026-07 (현재)",
-        "u": 0
+        "u": 0,
+        "people": []
       }
     ]
   },
@@ -179,7 +219,8 @@
       },
       {
         "date": "2026-07 (현재)",
-        "u": 0
+        "u": 0,
+        "people": []
       }
     ]
   }

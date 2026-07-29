@@ -172,167 +172,82 @@
       },
       {
         "date": "2026-06",
-        "u": 32,
+        "u": 15,
         "people": [
           {
-            "name": "EVAN NAPOLITAN",
-            "email": "evan.napolitan@serveonena.com",
-            "dept": "Logistic Unit"
+            "name": "ARIZONA3",
+            "email": "arizona3@serveonena.com",
+            "dept": "-"
           },
           {
-            "name": "JAY SIMPSON",
-            "email": "jay.simpson@serveonena.com",
-            "dept": "Logistic Unit"
+            "name": "SVO.LOGISTICS",
+            "email": "svo.logistics@serveonena.com",
+            "dept": "-"
           },
           {
             "name": "JOSHUA PACE",
             "email": "joshua.pace@serveonena.com",
-            "dept": "Logistics Solution Team"
+            "dept": "-"
           },
           {
             "name": "LARKIN WHITE",
             "email": "larkin.white@serveonena.com",
-            "dept": "Logistics Solution Team"
+            "dept": "-"
           },
           {
-            "name": "ROBERT BABER",
-            "email": "robert.baber@serveonena.com",
-            "dept": "Logistics Solution Team"
+            "name": "ROBERT ROACH",
+            "email": "robert.roach@serveonena.com",
+            "dept": "-"
           },
           {
             "name": "YERANDY PRADERA GUZMAN",
             "email": "yerandy.Pradera@serveonena.com",
-            "dept": "Logistics Solution Team"
+            "dept": "-"
           },
           {
-            "name": "JAEHOON SONG",
-            "email": "jaehoon.song@serveonena.com",
-            "dept": "Procurement 1 Part"
+            "name": "DAVID KIM",
+            "email": "david.kim@serveonena.com",
+            "dept": "-"
           },
           {
-            "name": "MATTHEW ZYWICA",
-            "email": "matthew.zywica@serveonena.com",
-            "dept": "Procurement 1 Part"
+            "name": "NICHOLAS YOUNG",
+            "email": "nick.young@serveonena.com",
+            "dept": "-"
           },
           {
-            "name": "HUYMIN LEE",
-            "email": "huymin.lee@serveonena.com",
-            "dept": "Purchase2 Part"
+            "name": "CHAEHYUN SONG",
+            "email": "vivian.song@serveonena.com",
+            "dept": "-"
           },
           {
-            "name": "JEMIN OH",
-            "email": "jemin.oh@serveonena.com",
-            "dept": "Purchase2 Part"
+            "name": "MI CS2",
+            "email": "mi.cs2@serveonena.com",
+            "dept": "-"
           },
           {
-            "name": "JINHAN LEE",
-            "email": "jinhan.lee@serveonena.com",
-            "dept": "Purchase2 Part"
+            "name": "TN CS3",
+            "email": "tn.cs3@serveonena.com",
+            "dept": "-"
           },
           {
-            "name": "JOSEPH JOHNSON",
-            "email": "joseph.johnson@serveonena.com",
-            "dept": "Purchase2 Part"
+            "name": "MIJUNG SONG",
+            "email": "mijung.song@serveonena.com",
+            "dept": "-"
           },
           {
-            "name": "PAIGE WEISING",
-            "email": "paige.weising@serveonena.com",
-            "dept": "Purchase2 Part"
+            "name": "TN SALES",
+            "email": "tn.sales@serveonena.com",
+            "dept": "-"
           },
           {
-            "name": "SAMUEL HA",
-            "email": "sam.ha@serveonena.com",
-            "dept": "Purchase2 Part"
-          },
-          {
-            "name": "HUIRYONG JEONG",
-            "email": "huiryong.jeong@serveonena.com",
-            "dept": "Sales2 Team"
-          },
-          {
-            "name": "BAE SUNGWOO",
-            "email": "sungwoo.bae@serveonena.com",
-            "dept": "Sales2 Part"
-          },
-          {
-            "name": "YOSEOB LIM",
-            "email": "yoseob.lim@serveonena.com",
-            "dept": "Sales3 Part"
-          },
-          {
-            "name": "EUNKI CHUNG",
-            "email": "eunki.chung@serveonena.com",
-            "dept": "Sales4 Team"
-          },
-          {
-            "name": "KEVIN CHUNG",
-            "email": "kevin.chung@serveonena.com",
-            "dept": "Sales4 Team"
-          },
-          {
-            "name": "KEVIN JANG",
-            "email": "kevin.jang@serveonena.com",
-            "dept": "Sales6 Team"
-          },
-          {
-            "name": "SEUNGEON KIM",
-            "email": "Seungeon.kim@serveonena.com",
-            "dept": "Sales6 Team"
-          },
-          {
-            "name": "JAMIE PYON",
-            "email": "jamie.pyon@serveonena.com",
-            "dept": "CS7 Part"
-          },
-          {
-            "name": "JIHUN LIM",
-            "email": "jihun.lim@serveonena.com",
-            "dept": "Sales7 Part"
-          },
-          {
-            "name": "HYUG HER",
-            "email": "hyug.her@serveonena.com",
-            "dept": "Sales8 Part"
-          },
-          {
-            "name": "JIYEON SUH",
-            "email": "jiyeon.suh@serveonena.com",
-            "dept": "CS9Part"
-          },
-          {
-            "name": "HYUNMEAN MO",
-            "email": "hyunmean.mo@serveonena.com",
-            "dept": "Sales9 Part"
-          },
-          {
-            "name": "김성엽",
-            "email": "ksy1116@serveone.co.kr",
-            "dept": "미국법인 주재원"
-          },
-          {
-            "name": "류한석",
-            "email": "hsryu@serveone.co.kr",
-            "dept": "미국법인 주재원"
+            "name": "JUNHO PARK",
+            "email": "junho.park@serveonena.com",
+            "dept": "-"
           },
           {
             "name": "오성민",
-            "email": "sungmin.oh1@gmail.com",
-            "dept": "미국법인 주재원"
-          },
-          {
-            "name": "장우혁",
-            "email": "woohyuckjang@serveone.co.kr",
-            "dept": "미국법인 주재원"
-          },
-          {
-            "name": "정광진",
-            "email": "jeongkj@serveone.co.kr",
-            "dept": "미국법인 주재원"
-          },
-          {
-            "name": "하헌석",
-            "email": "hhs0912@serveone.co.kr",
-            "dept": "미국법인 주재원"
+            "email": "osmin88@serveone.co.kr",
+            "dept": "-"
           }
         ]
       },

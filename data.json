@@ -171,12 +171,170 @@
         ]
       },
       {
-        "date": "2026-06 초",
-        "u": 16
-      },
-      {
-        "date": "2026-06 말",
-        "u": 2
+        "date": "2026-06",
+        "u": 32,
+        "people": [
+          {
+            "name": "EVAN NAPOLITAN",
+            "email": "evan.napolitan@serveonena.com",
+            "dept": "Logistic Unit"
+          },
+          {
+            "name": "JAY SIMPSON",
+            "email": "jay.simpson@serveonena.com",
+            "dept": "Logistic Unit"
+          },
+          {
+            "name": "JOSHUA PACE",
+            "email": "joshua.pace@serveonena.com",
+            "dept": "Logistics Solution Team"
+          },
+          {
+            "name": "LARKIN WHITE",
+            "email": "larkin.white@serveonena.com",
+            "dept": "Logistics Solution Team"
+          },
+          {
+            "name": "ROBERT BABER",
+            "email": "robert.baber@serveonena.com",
+            "dept": "Logistics Solution Team"
+          },
+          {
+            "name": "YERANDY PRADERA GUZMAN",
+            "email": "yerandy.Pradera@serveonena.com",
+            "dept": "Logistics Solution Team"
+          },
+          {
+            "name": "JAEHOON SONG",
+            "email": "jaehoon.song@serveonena.com",
+            "dept": "Procurement 1 Part"
+          },
+          {
+            "name": "MATTHEW ZYWICA",
+            "email": "matthew.zywica@serveonena.com",
+            "dept": "Procurement 1 Part"
+          },
+          {
+            "name": "HUYMIN LEE",
+            "email": "huymin.lee@serveonena.com",
+            "dept": "Purchase2 Part"
+          },
+          {
+            "name": "JEMIN OH",
+            "email": "jemin.oh@serveonena.com",
+            "dept": "Purchase2 Part"
+          },
+          {
+            "name": "JINHAN LEE",
+            "email": "jinhan.lee@serveonena.com",
+            "dept": "Purchase2 Part"
+          },
+          {
+            "name": "JOSEPH JOHNSON",
+            "email": "joseph.johnson@serveonena.com",
+            "dept": "Purchase2 Part"
+          },
+          {
+            "name": "PAIGE WEISING",
+            "email": "paige.weising@serveonena.com",
+            "dept": "Purchase2 Part"
+          },
+          {
+            "name": "SAMUEL HA",
+            "email": "sam.ha@serveonena.com",
+            "dept": "Purchase2 Part"
+          },
+          {
+            "name": "HUIRYONG JEONG",
+            "email": "huiryong.jeong@serveonena.com",
+            "dept": "Sales2 Team"
+          },
+          {
+            "name": "BAE SUNGWOO",
+            "email": "sungwoo.bae@serveonena.com",
+            "dept": "Sales2 Part"
+          },
+          {
+            "name": "YOSEOB LIM",
+            "email": "yoseob.lim@serveonena.com",
+            "dept": "Sales3 Part"
+          },
+          {
+            "name": "EUNKI CHUNG",
+            "email": "eunki.chung@serveonena.com",
+            "dept": "Sales4 Team"
+          },
+          {
+            "name": "KEVIN CHUNG",
+            "email": "kevin.chung@serveonena.com",
+            "dept": "Sales4 Team"
+          },
+          {
+            "name": "KEVIN JANG",
+            "email": "kevin.jang@serveonena.com",
+            "dept": "Sales6 Team"
+          },
+          {
+            "name": "SEUNGEON KIM",
+            "email": "Seungeon.kim@serveonena.com",
+            "dept": "Sales6 Team"
+          },
+          {
+            "name": "JAMIE PYON",
+            "email": "jamie.pyon@serveonena.com",
+            "dept": "CS7 Part"
+          },
+          {
+            "name": "JIHUN LIM",
+            "email": "jihun.lim@serveonena.com",
+            "dept": "Sales7 Part"
+          },
+          {
+            "name": "HYUG HER",
+            "email": "hyug.her@serveonena.com",
+            "dept": "Sales8 Part"
+          },
+          {
+            "name": "JIYEON SUH",
+            "email": "jiyeon.suh@serveonena.com",
+            "dept": "CS9Part"
+          },
+          {
+            "name": "HYUNMEAN MO",
+            "email": "hyunmean.mo@serveonena.com",
+            "dept": "Sales9 Part"
+          },
+          {
+            "name": "김성엽",
+            "email": "ksy1116@serveone.co.kr",
+            "dept": "미국법인 주재원"
+          },
+          {
+            "name": "류한석",
+            "email": "hsryu@serveone.co.kr",
+            "dept": "미국법인 주재원"
+          },
+          {
+            "name": "오성민",
+            "email": "sungmin.oh1@gmail.com",
+            "dept": "미국법인 주재원"
+          },
+          {
+            "name": "장우혁",
+            "email": "woohyuckjang@serveone.co.kr",
+            "dept": "미국법인 주재원"
+          },
+          {
+            "name": "정광진",
+            "email": "jeongkj@serveone.co.kr",
+            "dept": "미국법인 주재원"
+          },
+          {
+            "name": "하헌석",
+            "email": "hhs0912@serveone.co.kr",
+            "dept": "미국법인 주재원"
+          }
+        ]
       },
       {
         "date": "2026-07 (현재)",
@@ -238,12 +396,45 @@
         ]
       },
       {
-        "date": "2026-06 초",
-        "u": 0
-      },
-      {
-        "date": "2026-06 말",
-        "u": 0
+        "date": "2026-06",
+        "u": 7,
+        "people": [
+          {
+            "name": "DREW DEPPNER",
+            "email": "drew.deppner_ca@serveonena.com",
+            "dept": "Logistic Unit"
+          },
+          {
+            "name": "KIM SUNMIN",
+            "email": "sun.kim_ca@serveonena.com",
+            "dept": "Account/Tax Part"
+          },
+          {
+            "name": "AMY SIEMION_CA",
+            "email": "amy.siemion_ca@serveonena.com",
+            "dept": "HR/General Affairs Part"
+          },
+          {
+            "name": "DB CANADA",
+            "email": "Seoyoung.c_ca@serveonoena.com",
+            "dept": "DB Part"
+          },
+          {
+            "name": "DB CANADAD",
+            "email": "db.canada@serveonena.com",
+            "dept": "DB Part"
+          },
+          {
+            "name": "SVO CS",
+            "email": "svo.cs@serveonena.com",
+            "dept": "CS Part"
+          },
+          {
+            "name": "이상재",
+            "email": "paradoxsj_ca@serveone.co.kr",
+            "dept": "캐나다법인 주재원"
+          }
+        ]
       },
       {
         "date": "2026-07 (현재)",
@@ -304,12 +495,50 @@
         ]
       },
       {
-        "date": "2026-06 초",
-        "u": 5
-      },
-      {
-        "date": "2026-06 말",
-        "u": 0
+        "date": "2026-06",
+        "u": 8,
+        "people": [
+          {
+            "name": "SOVP DB",
+            "email": "sovp.db@serveone.eu",
+            "dept": "-"
+          },
+          {
+            "name": "SERVEONE EUROPE",
+            "email": "serveone.eu@serveone.eu",
+            "dept": "-"
+          },
+          {
+            "name": "POLAND INVOICE",
+            "email": "invoice.pl@serveone.eu",
+            "dept": "-"
+          },
+          {
+            "name": "IMPORT COMMON",
+            "email": "c.import@serveone.eu",
+            "dept": "-"
+          },
+          {
+            "name": "GASIOR KRZYSZTOF",
+            "email": "k.gasior@serveone.eu",
+            "dept": "-"
+          },
+          {
+            "name": "HAMPELSKI MIKOLAJ",
+            "email": "m.hampelski@serveone.eu",
+            "dept": "-"
+          },
+          {
+            "name": "LUKASZ ZIOBROWSKI",
+            "email": "lukasz.z@serveone.eu",
+            "dept": "-"
+          },
+          {
+            "name": "MARCIN SZYMKIEWICZ",
+            "email": "Marcin1@serveone.eu",
+            "dept": "-"
+          }
+        ]
       },
       {
         "date": "2026-07 (현재)",
@@ -350,12 +579,30 @@
         ]
       },
       {
-        "date": "2026-06 초",
-        "u": 2
-      },
-      {
-        "date": "2026-06 말",
-        "u": 0
+        "date": "2026-06",
+        "u": 4,
+        "people": [
+          {
+            "name": "KIM SUNGKYUN_HU",
+            "email": "newbio_HU@serveone.eu",
+            "dept": "-"
+          },
+          {
+            "name": "LEE DONGSEOK_HU-Martin",
+            "email": "dslee_hu@serveone.eu",
+            "dept": "-"
+          },
+          {
+            "name": "SOHU IMPORT",
+            "email": "sohu_import@serveone.eu",
+            "dept": "-"
+          },
+          {
+            "name": "PURCHASE COMMON",
+            "email": "purchase.c@serveone.eu",
+            "dept": "-"
+          }
+        ]
       },
       {
         "date": "2026-07 (현재)",
@@ -451,12 +698,70 @@
         ]
       },
       {
-        "date": "2026-06 초",
-        "u": 4
-      },
-      {
-        "date": "2026-06 말",
-        "u": 1
+        "date": "2026-06",
+        "u": 12,
+        "people": [
+          {
+            "name": "vietnam01",
+            "email": "vietnam01@serveone.vn",
+            "dept": "-"
+          },
+          {
+            "name": "LEE SEO EUN",
+            "email": "se.lee@serveone.vn",
+            "dept": "-"
+          },
+          {
+            "name": "MAI HOANG LAN-Billy",
+            "email": "billy.mai@serveone.vn",
+            "dept": "-"
+          },
+          {
+            "name": "NOREPLY VMEMBERSMALL-Noreply",
+            "email": "noreply.vmember@serveone.vn",
+            "dept": "-"
+          },
+          {
+            "name": "V MEMBERS-VMEMBERS",
+            "email": "v.members@serveone.vn",
+            "dept": "-"
+          },
+          {
+            "name": "HCM INVOICE-HCMINVOICE",
+            "email": "hcm.einvoice@serveone.vn",
+            "dept": "-"
+          },
+          {
+            "name": "IMEXPHARM CO-Imexpharm",
+            "email": "imp.po@serveone.vn",
+            "dept": "-"
+          },
+          {
+            "name": "SUPPORT DRB-DRB",
+            "email": "drb.support@serveone.vn",
+            "dept": "-"
+          },
+          {
+            "name": "JEONG DO-JEONGDO",
+            "email": "jeong.do@serveone.vn",
+            "dept": "-"
+          },
+          {
+            "name": "E INVOICE-EINVOICE",
+            "email": "e.invoice@serveone.vn",
+            "dept": "-"
+          },
+          {
+            "name": "BUI PHAN THUY LINH-Phoebe",
+            "email": "phoebe.bui@serveone.vn",
+            "dept": "-"
+          },
+          {
+            "name": "LACCHI TUYEN",
+            "email": "lacchituyen@serveone.co.kr",
+            "dept": "-"
+          }
+        ]
       },
       {
         "date": "2026-07 (현재)",
@@ -533,12 +838,40 @@
         ]
       },
       {
-        "date": "2026-06 초",
-        "u": 4
-      },
-      {
-        "date": "2026-06 말",
-        "u": 3
+        "date": "2026-06",
+        "u": 6,
+        "people": [
+          {
+            "name": "NABILA KRISDAYANTI",
+            "email": "nabilakd@serveone.id",
+            "dept": "-"
+          },
+          {
+            "name": "LINTANG DIAN KUSUMAWARDHANI",
+            "email": "lintang@serveone.id",
+            "dept": "-"
+          },
+          {
+            "name": "RIKY NASRUL ILAHI",
+            "email": "riky@serveone.id",
+            "dept": "-"
+          },
+          {
+            "name": "RAFI BINTANG ALFATTAH HIDAYAT",
+            "email": "rafi@serveone.id",
+            "dept": "-"
+          },
+          {
+            "name": "DHEA",
+            "email": "dindiranurjanah17@gmail.com",
+            "dept": "-"
+          },
+          {
+            "name": "ARDHITO KATON BAGASKARA",
+            "email": "ardhito@serveone.id",
+            "dept": "-"
+          }
+        ]
       },
       {
         "date": "2026-07 (현재)",
@@ -805,12 +1138,105 @@
         ]
       },
       {
-        "date": "2026-06 초",
-        "u": 47
-      },
-      {
-        "date": "2026-06 말",
-        "u": 1
+        "date": "2026-06",
+        "u": 19,
+        "people": [
+          {
+            "name": "ADMHUB01",
+            "email": "ADMHUB01@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "NJHUB04",
+            "email": "NJHUB04@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "NJHUB05",
+            "email": "NJHUB05@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "SHHUB01",
+            "email": "SHHUB01@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "XGHUB01",
+            "email": "XGHUB01@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "XGHUB02",
+            "email": "XGHUB02@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "YTHUB01",
+            "email": "YTHUB01@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "李小婷",
+            "email": "lixiaoting@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "周文娟",
+            "email": "zhouwenjuan@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "周未",
+            "email": "zhouwei@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "李连兵",
+            "email": "lilianbing@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "王彤",
+            "email": "wangtong@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "纪明明",
+            "email": "jimingming@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "송민섭(宋旻燮)",
+            "email": "bluemoon@serveone.co.kr",
+            "dept": "-"
+          },
+          {
+            "name": "안승훈(安承训)",
+            "email": "weloveash@serveone.co.kr",
+            "dept": "-"
+          },
+          {
+            "name": "이기창(李奇昌)",
+            "email": "shawn@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "이세훈(李世薰)",
+            "email": "shlee0409@serveone.co.kr",
+            "dept": "-"
+          },
+          {
+            "name": "이지영",
+            "email": "passion80_nj@serveone.co.kr",
+            "dept": "-"
+          },
+          {
+            "name": "최봉주(崔峰主)",
+            "email": "cbj0209@serveone.co.kr",
+            "dept": "-"
+          }
+        ]
       },
       {
         "date": "2026-07 (현재)",
@@ -941,12 +1367,115 @@
         ]
       },
       {
-        "date": "2026-06 초",
-        "u": 22
-      },
-      {
-        "date": "2026-06 말",
-        "u": 0
+        "date": "2026-06",
+        "u": 21,
+        "people": [
+          {
+            "name": "GZHUB201901",
+            "email": "GZHUB201901@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "GZHUB201902",
+            "email": "GZHUB201902@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "wangchanggen",
+            "email": "wangchanggen@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "刘春红",
+            "email": "liuchunhong@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "岳龙",
+            "email": "yuelong@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "商宝平",
+            "email": "shangbaoping@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "何连增",
+            "email": "helianzeng@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "吴杰",
+            "email": "wujie@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "景智超",
+            "email": "jingzhichao@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "李治",
+            "email": "lizhi@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "蔺伟",
+            "email": "linwei@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "许磊",
+            "email": "xulei@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "许长波",
+            "email": "xuchangbo@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "刘聪亮",
+            "email": "liucongliang@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "吕春海",
+            "email": "lvchunhai@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "朱金娜",
+            "email": "zhujinna2020@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "王微",
+            "email": "wangwei2013@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "耿风宝",
+            "email": "gengfengbao@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "손태영(孙泰永)",
+            "email": "suntaiyong@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "이해영(李海荣)",
+            "email": "peter@serveone.co.kr",
+            "dept": "-"
+          },
+          {
+            "name": "최영주(崔荣柱)",
+            "email": "yjoochoi@serveone.co.kr",
+            "dept": "-"
+          }
+        ]
       },
       {
         "date": "2026-07 (현재)",

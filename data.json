@@ -6,7 +6,7 @@
     "rows": [
       {
         "date": "2026-05",
-        "u": 33,
+        "u": 32,
         "people": [
           {
             "name": "EVAN NAPOLITAN",
@@ -201,6 +201,11 @@
         "u": 7,
         "people": [
           {
+            "name": "DREW DEPPNER",
+            "email": "drew.deppner_ca@serveonena.com",
+            "dept": "Logistic Unit"
+          },
+          {
             "name": "KIM SUNMIN",
             "email": "sun.kim_ca@serveonena.com",
             "dept": "Account/Tax Part"
@@ -209,6 +214,21 @@
             "name": "AMY SIEMION_CA",
             "email": "amy.siemion_ca@serveonena.com",
             "dept": "HR/General Affairs Part"
+          },
+          {
+            "name": "DB CANADA",
+            "email": "Seoyoung.c_ca@serveonoena.com",
+            "dept": "DB Part"
+          },
+          {
+            "name": "DB CANADAD",
+            "email": "db.canada@serveonena.com",
+            "dept": "DB Part"
+          },
+          {
+            "name": "SVO CS",
+            "email": "svo.cs@serveonena.com",
+            "dept": "CS Part"
           },
           {
             "name": "이상재",
@@ -240,7 +260,48 @@
       {
         "date": "2026-05",
         "u": 8,
-        "people": []
+        "people": [
+          {
+            "name": "SOVP DB",
+            "email": "sovp.db@serveone.eu",
+            "dept": "-"
+          },
+          {
+            "name": "SERVEONE EUROPE",
+            "email": "serveone.eu@serveone.eu",
+            "dept": "-"
+          },
+          {
+            "name": "POLAND INVOICE",
+            "email": "invoice.pl@serveone.eu",
+            "dept": "-"
+          },
+          {
+            "name": "IMPORT COMMON",
+            "email": "c.import@serveone.eu",
+            "dept": "-"
+          },
+          {
+            "name": "GASIOR KRZYSZTOF",
+            "email": "k.gasior@serveone.eu",
+            "dept": "-"
+          },
+          {
+            "name": "HAMPELSKI MIKOLAJ",
+            "email": "m.hampelski@serveone.eu",
+            "dept": "-"
+          },
+          {
+            "name": "LUKASZ ZIOBROWSKI",
+            "email": "lukasz.z@serveone.eu",
+            "dept": "-"
+          },
+          {
+            "name": "MARCIN SZYMKIEWICZ",
+            "email": "Marcin1@serveone.eu",
+            "dept": "-"
+          }
+        ]
       },
       {
         "date": "2026-06 초",
@@ -265,7 +326,28 @@
       {
         "date": "2026-05",
         "u": 4,
-        "people": []
+        "people": [
+          {
+            "name": "KIM SUNGKYUN_HU",
+            "email": "newbio_HU@serveone.eu",
+            "dept": "-"
+          },
+          {
+            "name": "LEE DONGSEOK_HU-Martin",
+            "email": "dslee_hu@serveone.eu",
+            "dept": "-"
+          },
+          {
+            "name": "SOHU IMPORT",
+            "email": "sohu_import@serveone.eu",
+            "dept": "-"
+          },
+          {
+            "name": "PURCHASE COMMON",
+            "email": "purchase.c@serveone.eu",
+            "dept": "-"
+          }
+        ]
       },
       {
         "date": "2026-06 초",
@@ -292,6 +374,16 @@
         "u": 15,
         "people": [
           {
+            "name": "vietnam01",
+            "email": "vietnam01@serveone.vn",
+            "dept": "-"
+          },
+          {
+            "name": "LEE SEO EUN",
+            "email": "se.lee@serveone.vn",
+            "dept": "-"
+          },
+          {
             "name": "NGUYEN VY HOAI-Ruby",
             "email": "ruby.nguyen@serveone.vn",
             "dept": "-"
@@ -309,6 +401,51 @@
           {
             "name": "NGUYEN NGOC BAO THY-Yeri",
             "email": "yeri.nguyen@serveone.vn",
+            "dept": "-"
+          },
+          {
+            "name": "NOREPLY VMEMBERSMALL-Noreply",
+            "email": "noreply.vmember@serveone.vn",
+            "dept": "-"
+          },
+          {
+            "name": "V MEMBERS-VMEMBERS",
+            "email": "v.members@serveone.vn",
+            "dept": "-"
+          },
+          {
+            "name": "HCM INVOICE-HCMINVOICE",
+            "email": "hcm.einvoice@serveone.vn",
+            "dept": "-"
+          },
+          {
+            "name": "IMEXPHARM CO-Imexpharm",
+            "email": "imp.po@serveone.vn",
+            "dept": "-"
+          },
+          {
+            "name": "SUPPORT DRB-DRB",
+            "email": "drb.support@serveone.vn",
+            "dept": "-"
+          },
+          {
+            "name": "JEONG DO-JEONGDO",
+            "email": "jeong.do@serveone.vn",
+            "dept": "-"
+          },
+          {
+            "name": "E INVOICE-EINVOICE",
+            "email": "e.invoice@serveone.vn",
+            "dept": "-"
+          },
+          {
+            "name": "BUI PHAN THUY LINH-Phoebe",
+            "email": "phoebe.bui@serveone.vn",
+            "dept": "-"
+          },
+          {
+            "name": "LACCHI TUYEN",
+            "email": "lacchituyen@serveone.co.kr",
             "dept": "-"
           }
         ]
@@ -362,6 +499,36 @@
             "name": "RIFKA LASMARIA HABIAHAN",
             "email": "rifka@serveone.id",
             "dept": "-"
+          },
+          {
+            "name": "NABILA KRISDAYANTI",
+            "email": "nabilakd@serveone.id",
+            "dept": "-"
+          },
+          {
+            "name": "LINTANG DIAN KUSUMAWARDHANI",
+            "email": "lintang@serveone.id",
+            "dept": "-"
+          },
+          {
+            "name": "RIKY NASRUL ILAHI",
+            "email": "riky@serveone.id",
+            "dept": "-"
+          },
+          {
+            "name": "RAFI BINTANG ALFATTAH HIDAYAT",
+            "email": "rafi@serveone.id",
+            "dept": "-"
+          },
+          {
+            "name": "DHEA",
+            "email": "dindiranurjanah17@gmail.com",
+            "dept": "-"
+          },
+          {
+            "name": "ARDHITO KATON BAGASKARA",
+            "email": "ardhito@serveone.id",
+            "dept": "-"
           }
         ]
       },
@@ -400,6 +567,41 @@
         "date": "2026-05",
         "u": 47,
         "people": [
+          {
+            "name": "ADMHUB01",
+            "email": "ADMHUB01@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "NJHUB04",
+            "email": "NJHUB04@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "NJHUB05",
+            "email": "NJHUB05@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "SHHUB01",
+            "email": "SHHUB01@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "XGHUB01",
+            "email": "XGHUB01@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "XGHUB02",
+            "email": "XGHUB02@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "YTHUB01",
+            "email": "YTHUB01@serveone.cn",
+            "dept": "-"
+          },
           {
             "name": "张克丽",
             "email": "zhangkeli@serveone.cn",
@@ -476,6 +678,11 @@
             "dept": "-"
           },
           {
+            "name": "李小婷",
+            "email": "lixiaoting@serveone.cn",
+            "dept": "-"
+          },
+          {
             "name": "嵇越",
             "email": "jiyue@serveone.cn",
             "dept": "-"
@@ -526,8 +733,33 @@
             "dept": "-"
           },
           {
+            "name": "周文娟",
+            "email": "zhouwenjuan@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "周未",
+            "email": "zhouwei@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "李连兵",
+            "email": "lilianbing@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "王彤",
+            "email": "wangtong@serveone.cn",
+            "dept": "-"
+          },
+          {
             "name": "王海峰",
             "email": "wanghaifeng@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "纪明明",
+            "email": "jimingming@serveone.cn",
             "dept": "-"
           },
           {
@@ -536,8 +768,38 @@
             "dept": "-"
           },
           {
+            "name": "송민섭(宋旻燮)",
+            "email": "bluemoon@serveone.co.kr",
+            "dept": "-"
+          },
+          {
+            "name": "안승훈(安承训)",
+            "email": "weloveash@serveone.co.kr",
+            "dept": "-"
+          },
+          {
+            "name": "이기창(李奇昌)",
+            "email": "shawn@serveone.cn",
+            "dept": "-"
+          },
+          {
             "name": "이백(李白)",
             "email": "libai@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "이세훈(李世薰)",
+            "email": "shlee0409@serveone.co.kr",
+            "dept": "-"
+          },
+          {
+            "name": "이지영",
+            "email": "passion80_nj@serveone.co.kr",
+            "dept": "-"
+          },
+          {
+            "name": "최봉주(崔峰主)",
+            "email": "cbj0209@serveone.co.kr",
             "dept": "-"
           }
         ]
@@ -567,8 +829,113 @@
         "u": 22,
         "people": [
           {
+            "name": "GZHUB201901",
+            "email": "GZHUB201901@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "GZHUB201902",
+            "email": "GZHUB201902@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "wangchanggen",
+            "email": "wangchanggen@serveone.cn",
+            "dept": "-"
+          },
+          {
             "name": "XMHUB202001",
             "email": "XMHUB202001@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "刘春红",
+            "email": "liuchunhong@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "岳龙",
+            "email": "yuelong@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "商宝平",
+            "email": "shangbaoping@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "何连增",
+            "email": "helianzeng@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "吴杰",
+            "email": "wujie@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "景智超",
+            "email": "jingzhichao@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "李治",
+            "email": "lizhi@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "蔺伟",
+            "email": "linwei@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "许磊",
+            "email": "xulei@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "许长波",
+            "email": "xuchangbo@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "刘聪亮",
+            "email": "liucongliang@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "吕春海",
+            "email": "lvchunhai@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "朱金娜",
+            "email": "zhujinna2020@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "王微",
+            "email": "wangwei2013@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "耿风宝",
+            "email": "gengfengbao@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "손태영(孙泰永)",
+            "email": "suntaiyong@serveone.cn",
+            "dept": "-"
+          },
+          {
+            "name": "이해영(李海荣)",
+            "email": "peter@serveone.co.kr",
+            "dept": "-"
+          },
+          {
+            "name": "최영주(崔荣柱)",
+            "email": "yjoochoi@serveone.co.kr",
             "dept": "-"
           }
         ]

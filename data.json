@@ -252,13 +252,34 @@
         ]
       },
       {
-        "date": "2026-07 (현재)",
+        "date": "2026-07",
         "u": 1,
         "people": [
           {
             "name": "OH LOGISTICS",
             "email": "oh.logistics@serveonena.com",
             "dept": "Logistics Solution Team"
+          }
+        ]
+      },
+      {
+        "date": "2026-08 (현재)",
+        "u": 3,
+        "people": [
+          {
+            "name": "OH LOGISTICS",
+            "email": "oh.logistics@serveonena.com",
+            "dept": "Logistics Solution Team"
+          },
+          {
+            "name": "HR NA",
+            "email": "hr.na@serveonena.com",
+            "dept": "HR/General Affairs Part"
+          },
+          {
+            "name": "KEN LEE",
+            "email": "ken.lee@serveonena.com",
+            "dept": "Procurement 1 Part"
           }
         ]
       }
@@ -352,7 +373,12 @@
         ]
       },
       {
-        "date": "2026-07 (현재)",
+        "date": "2026-07",
+        "u": 0,
+        "people": []
+      },
+      {
+        "date": "2026-08 (현재)",
         "u": 0,
         "people": []
       }
@@ -456,7 +482,12 @@
         ]
       },
       {
-        "date": "2026-07 (현재)",
+        "date": "2026-07",
+        "u": 0,
+        "people": []
+      },
+      {
+        "date": "2026-08 (현재)",
         "u": 0,
         "people": []
       }
@@ -520,7 +551,12 @@
         ]
       },
       {
-        "date": "2026-07 (현재)",
+        "date": "2026-07",
+        "u": 0,
+        "people": []
+      },
+      {
+        "date": "2026-08 (현재)",
         "u": 0,
         "people": []
       }
@@ -679,7 +715,7 @@
         ]
       },
       {
-        "date": "2026-07 (현재)",
+        "date": "2026-07",
         "u": 3,
         "people": [
           {
@@ -696,6 +732,47 @@
             "name": "LE THI THAO HIEN-Vera",
             "email": "vera.le@serveone.vn",
             "dept": "Hyosung PJT Part"
+          }
+        ]
+      },
+      {
+        "date": "2026-08 (현재)",
+        "u": 7,
+        "people": [
+          {
+            "name": "MAI HOANG LAN-Billy",
+            "email": "billy.mai@serveone.vn",
+            "dept": "New Sales Part"
+          },
+          {
+            "name": "DOAN KHANH LINH-Kaylin",
+            "email": "kaylin.doan@serveone.vn",
+            "dept": "LGE&Tier1 Q/D Part"
+          },
+          {
+            "name": "NGUYEN THI MINH ANH-Mira",
+            "email": "mira.nguyen@serveone.vn",
+            "dept": "LGD Sales 1 Part"
+          },
+          {
+            "name": "VU TRA MY-Arina",
+            "email": "arina.vu@serveone.vn",
+            "dept": "HRGA Part"
+          },
+          {
+            "name": "LE THI THAO HIEN-Vera",
+            "email": "vera.le@serveone.vn",
+            "dept": "Hyosung PJT Part"
+          },
+          {
+            "name": "QUACH MINH HIEU-Jamie",
+            "email": "jamie.quach@serveone.vn",
+            "dept": "Purchase&DB Part"
+          },
+          {
+            "name": "DANG DIEU AN-Lya",
+            "email": "llya.dang@serveone.vn",
+            "dept": "LGE&Tier1 Q/D Part"
           }
         ]
       }
@@ -789,7 +866,7 @@
         ]
       },
       {
-        "date": "2026-07 (현재)",
+        "date": "2026-07",
         "u": 2,
         "people": [
           {
@@ -800,6 +877,17 @@
           {
             "name": "RAFI BINTANG ALFATTAH HIDAYAT",
             "email": "rafi@serveone.id",
+            "dept": "LGE/Tier1 Part"
+          }
+        ]
+      },
+      {
+        "date": "2026-08 (현재)",
+        "u": 1,
+        "people": [
+          {
+            "name": "LOEMONGGA OKTARIA SIHOMBING",
+            "email": "mongga@serveone.id",
             "dept": "LGE/Tier1 Part"
           }
         ]
@@ -1154,9 +1242,20 @@
         ]
       },
       {
-        "date": "2026-07 (현재)",
+        "date": "2026-07",
         "u": 0,
         "people": []
+      },
+      {
+        "date": "2026-08 (현재)",
+        "u": 1,
+        "people": [
+          {
+            "name": "张颖",
+            "email": "zhangying2026@serveone.cn",
+            "dept": "华东2 副资材1Part"
+          }
+        ]
       }
     ]
   },
@@ -1393,13 +1492,18 @@
         ]
       },
       {
-        "date": "2026-07 (현재)",
+        "date": "2026-07",
+        "u": 0,
+        "people": []
+      },
+      {
+        "date": "2026-08 (현재)",
         "u": 0,
         "people": []
       }
     ]
   },
   "_meta": {
-    "collectedAt": "2026-07-21 17:39"
+    "collectedAt": "2026-08-04 16:49"
   }
 }
